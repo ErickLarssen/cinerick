@@ -1,14 +1,14 @@
-# 🎬 CineRick
+# 🎬 CinErick
 
-Bem-vindo ao **CineRick** — um site desenvolvido para reunir e exibir os **filmes, séries, animações e personagens favoritos** do criador, em um formato interativo e organizado por **categorias e preferências pessoais**.  
-Aqui, o cinema, a nostalgia e a cultura pop se encontram em um só lugar!
+Bem-vindo ao **CinErick**, um site desenvolvido para reunir e exibir os **filmes, séries, animações e personagens favoritos** do criador, em um formato interativo e organizado por **categorias e preferências pessoais**.  
+Aqui, o cinema, a nostalgia se encontram em um só lugar!
 
 ---
 
 ## 🌟 Sobre o Projeto
 
-O **CineRick** nasceu da ideia de compartilhar uma **visão pessoal e apaixonada** sobre o mundo do entretenimento.  
-Cada página apresenta um tema específico — desde **super-heróis**, **vilões**, **animações**, até **filmes nostálgicos** e **lançamentos recentes** — tudo exibido em uma interface leve, visualmente agradável e fácil de navegar.
+O **CinErick** nasceu da ideia de compartilhar uma **visão pessoal e apaixonada** sobre o mundo do entretenimento.  
+Cada página apresenta um tema específico, desde **super-heróis**, **vilões**, **animações**, até **filmes nostálgicos** e **lançamentos recentes**, tudo exibido em uma interface leve, visualmente agradável e fácil de navegar.
 
 Além de um simples catálogo, o site também funciona como um **ranking pessoal**, mostrando os títulos em **ordem de preferência**, criando assim uma experiência única e personalizada.
 
@@ -18,17 +18,17 @@ Além de um simples catálogo, o site também funciona como um **ranking pessoal
 
 O site é composto por múltiplas páginas, cada uma dedicada a um tema:
 
-- 🎞️ `index.html` — Página inicial com introdução ao projeto  
-- 🦸 `marvel.html` — Filmes e personagens do universo Marvel  
-- 🦇 `dc.html` — Universo DC Comics  
-- 🕶️ `anti-herois.html` — Anti-heróis marcantes do cinema e das HQs  
-- 💥 `viloes.html` — Os maiores vilões da cultura pop  
-- 🧊 `animacoes.html` — Filmes e animações clássicas e modernas  
-- 📺 `series.html` — Séries que marcaram época  
-- 🎬 `recentes.html` — Filmes e produções recentes  
-- 🕰️ `nostalgia.html` — Clássicos que despertam memórias  
-- 🧠 `herois-subestimados.html` — Personagens que merecem mais reconhecimento  
-- ⚔️ `equipes.html` — Times lendários do cinema e quadrinhos  
+- 🎞️ `index.html` — Página inicial com introdução ao projeto e a sessão de filmes favoritos  
+- 🦸 `marvel.html` — Personagens favoritos do universo Marvel  
+- 🦇 `dc.html` — Personagens favoritos do universo DC Comics  
+- 🕶️ `anti-herois.html` — Anti-heróis favoritos e marcantes do cinema e das HQs  
+- 💥 `viloes.html` — Ranking dos maiores vilões dos HQs  
+- 🧊 `animacoes.html` — Ranking das animações favoritas  
+- 📺 `series.html` — Ranking das séries que marcaram época  
+- 🎬 `recentes.html` — Ranking do filmes e produções recentes  
+- 🕰️ `nostalgia.html` — Ranking dos filmes clássicos que despertam memórias  
+- 🧠 `herois-subestimados.html` — Ranking dos personagens que merecem mais reconhecimento  
+- ⚔️ `equipes.html` — Ranking dos times lendários do cinema e quadrinhos  
 
 ---
 
@@ -49,7 +49,7 @@ As principais tecnologias utilizadas são:
 
 ## 🎨 Tema e Estilo
 
-O **CineRick** combina **design moderno** com uma **atmosfera cinematográfica**.  
+O **CinErick** combina **design moderno** com uma **atmosfera cinematográfica**.  
 A paleta de cores e o layout foram pensados para destacar as imagens e facilitar a navegação entre as categorias, proporcionando uma **experiência imersiva** para o usuário.
 
 Cada página é única, mas mantém uma identidade visual coerente, reforçando a ideia de um verdadeiro **universo de filmes**.
@@ -100,7 +100,7 @@ cinerick/
 
 ## 📸 Prévia Visual
 
-> *(Adicione aqui uma captura de tela ou GIF mostrando o site em funcionamento, se desejar)*
+> ![Prévia do site CineRick](./images/cinerick.png)
 
 ---
 
@@ -115,12 +115,12 @@ cinerick/
 
 ## 👨‍🎨 Autor
 
-**Erick Larssen**  
+**Erick Silva**  
 🎥 Designer Gráfico, Animador e Programador Front-end  
 📍 Diadema - SP, Brasil  
 
 📸 [Instagram](https://instagram.com/elarssendesign)  
-💼 [Portfólio Profissional](https://elarssen.design)
+💼 [Portfólio Profissional](https://ericksilva.space)
 
 ---
 
@@ -132,4 +132,4 @@ Você pode explorá-lo, estudá-lo e se inspirar, mas lembre-se de dar os devido
 ---
 
 > _"O cinema é uma arte que nos faz sentir mil vidas em uma só."_ 🎞️  
-> — CineRick
+> — CinErick
