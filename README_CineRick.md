@@ -3,6 +3,8 @@
 Bem-vindo ao **CinErick**, um site desenvolvido para reunir e exibir os **filmes, séries, animações e personagens favoritos** do criador, em um formato interativo e organizado por **categorias e preferências pessoais**.  
 Aqui, o cinema, a nostalgia se encontram em um só lugar!
 
+🎥 [Acesse o site aqui!](https://cinerick.online)
+
 ---
 
 ## 🌟 Sobre o Projeto
