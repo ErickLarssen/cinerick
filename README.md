@@ -122,7 +122,7 @@ cinerick/
 📍 Diadema - SP, Brasil  
 
 📸 [Instagram](https://instagram.com/elarssendesign)  
-💼 [Portfólio Profissional](https://ericksilva.space)
+💼 [Portfólio Profissional](https://ericksilva.dev/)
 
 ---
 
